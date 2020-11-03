@@ -12,7 +12,7 @@ versions:
 
 ### About pull requests
 
-{% note %}
+{% note %},$V=RUBY*>GEM>*
 
 **Note:** When working with pull requests, keep the following in mind:
 * If you're working in the [shared repository model](/articles/about-collaborative-development-models), we recommend that you use a topic branch for your pull request. While you can send pull requests from any branch or commit, with a topic branch you can push follow-up commits if you need to update your proposed changes.
